@@ -3,5 +3,8 @@
 {"issue_id":"gt-gastown-refinery","label":"gt:agent"}
 {"issue_id":"gt-gastown-refinery","label":"idle:7"}
 {"issue_id":"gt-gastown-witness","label":"gt:agent"}
-{"issue_id":"gt-gastown-witness","label":"idle:2"}
+{"issue_id":"gt-gastown-witness","label":"idle:0"}
+{"issue_id":"gt-ing","label":"pinned"}
 {"issue_id":"gt-rig-gastown","label":"gt:rig"}
+{"issue_id":"gt-wisp-9p8j","label":"backoff-until:1772359621"}
+{"issue_id":"gt-wisp-foc1","label":"backoff-until:1772359512"}
